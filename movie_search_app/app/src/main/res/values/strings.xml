@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="search">검색</string>
+    <string name="recentSearches">최근검색</string>
+    <string name="titleHint">영화제목입력</string>
+    <string name="recentSearchesHistory">최근검색이력</string>
+
+
+</resources>
